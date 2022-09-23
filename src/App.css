@@ -1,0 +1,12 @@
+.itemList { 
+    display: flex;
+    align-items: center;
+
+}
+
+.cardProducto { 
+    display: flex;
+    align-items: center;
+}
+
+
